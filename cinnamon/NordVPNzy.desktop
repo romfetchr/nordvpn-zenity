@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=NordVPN-ZENITY
+Comment=DO NOT close the parent terminal window!
+
+## Adjust as your needs ##
+# The *absolute* path where is your file *nordvpn.sh* #
+Exec="/absolute/path/to/nordvpn.sh"
+
+Icon=nordvpn
+MimeType=x-scheme-handler/nordvpn
+Terminal=true
